@@ -1,0 +1,368 @@
+Moved: 'hdfs://nameservice2/user/logstat/livestatis/data/20160417' to trash at: hdfs://nameservice2/user/logstat/.Trash/Current
+receiving incremental file list
+00.log
+
+sent 30 bytes  received 9816 bytes  19692.00 bytes/sec
+total size is 9716  speedup is 0.99
+receiving incremental file list
+01.log
+
+sent 30 bytes  received 346 bytes  250.67 bytes/sec
+total size is 246  speedup is 0.65
+receiving incremental file list
+02.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+03.log
+
+sent 30 bytes  received 345 bytes  750.00 bytes/sec
+total size is 245  speedup is 0.65
+receiving incremental file list
+04.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+05.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+06.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+07.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+08.log
+
+sent 30 bytes  received 3601 bytes  7262.00 bytes/sec
+total size is 3501  speedup is 0.96
+receiving incremental file list
+09.log
+
+sent 30 bytes  received 347 bytes  754.00 bytes/sec
+total size is 247  speedup is 0.66
+receiving incremental file list
+10.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+11.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+12.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+13.log
+
+sent 30 bytes  received 362 bytes  784.00 bytes/sec
+total size is 262  speedup is 0.67
+receiving incremental file list
+14.log
+
+sent 30 bytes  received 346 bytes  752.00 bytes/sec
+total size is 246  speedup is 0.65
+receiving incremental file list
+15.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+16.log
+
+sent 30 bytes  received 96 bytes  84.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+17.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+18.log
+
+sent 30 bytes  received 347 bytes  754.00 bytes/sec
+total size is 247  speedup is 0.66
+receiving incremental file list
+19.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+20.log
+
+sent 30 bytes  received 594 bytes  416.00 bytes/sec
+total size is 494  speedup is 0.79
+receiving incremental file list
+21.log
+
+sent 30 bytes  received 897 bytes  1854.00 bytes/sec
+total size is 797  speedup is 0.86
+receiving incremental file list
+22.log
+
+sent 30 bytes  received 660 bytes  1380.00 bytes/sec
+total size is 560  speedup is 0.81
+receiving incremental file list
+23.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+00.log
+
+sent 30 bytes  received 9783 bytes  19626.00 bytes/sec
+total size is 9683  speedup is 0.99
+receiving incremental file list
+01.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+02.log
+
+sent 30 bytes  received 346 bytes  752.00 bytes/sec
+total size is 246  speedup is 0.65
+receiving incremental file list
+03.log
+
+sent 30 bytes  received 346 bytes  250.67 bytes/sec
+total size is 246  speedup is 0.65
+receiving incremental file list
+04.log
+
+sent 30 bytes  received 345 bytes  250.00 bytes/sec
+total size is 245  speedup is 0.65
+receiving incremental file list
+05.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+06.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+07.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+08.log
+
+sent 30 bytes  received 3970 bytes  8000.00 bytes/sec
+total size is 3870  speedup is 0.97
+receiving incremental file list
+09.log
+
+sent 30 bytes  received 345 bytes  750.00 bytes/sec
+total size is 245  speedup is 0.65
+receiving incremental file list
+10.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+11.log
+
+sent 30 bytes  received 426 bytes  912.00 bytes/sec
+total size is 326  speedup is 0.71
+receiving incremental file list
+12.log
+
+sent 30 bytes  received 96 bytes  84.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+13.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+14.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+15.log
+
+sent 30 bytes  received 346 bytes  752.00 bytes/sec
+total size is 246  speedup is 0.65
+receiving incremental file list
+16.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+17.log
+
+sent 30 bytes  received 346 bytes  752.00 bytes/sec
+total size is 246  speedup is 0.65
+receiving incremental file list
+18.log
+
+sent 30 bytes  received 96 bytes  84.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+19.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+20.log
+
+sent 30 bytes  received 617 bytes  1294.00 bytes/sec
+total size is 517  speedup is 0.80
+receiving incremental file list
+21.log
+
+sent 30 bytes  received 928 bytes  1916.00 bytes/sec
+total size is 828  speedup is 0.86
+receiving incremental file list
+22.log
+
+sent 30 bytes  received 446 bytes  952.00 bytes/sec
+total size is 346  speedup is 0.73
+receiving incremental file list
+23.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+00.log
+
+sent 30 bytes  received 9341 bytes  18742.00 bytes/sec
+total size is 9241  speedup is 0.99
+receiving incremental file list
+01.log
+
+sent 30 bytes  received 345 bytes  750.00 bytes/sec
+total size is 245  speedup is 0.65
+receiving incremental file list
+02.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+03.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+04.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+05.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+06.log
+
+sent 30 bytes  received 345 bytes  750.00 bytes/sec
+total size is 245  speedup is 0.65
+receiving incremental file list
+07.log
+
+sent 30 bytes  received 346 bytes  752.00 bytes/sec
+total size is 246  speedup is 0.65
+receiving incremental file list
+08.log
+
+sent 30 bytes  received 4078 bytes  8216.00 bytes/sec
+total size is 3978  speedup is 0.97
+receiving incremental file list
+09.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+10.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+11.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+12.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+13.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+14.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+15.log
+
+sent 30 bytes  received 362 bytes  784.00 bytes/sec
+total size is 262  speedup is 0.67
+receiving incremental file list
+16.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+17.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+18.log
+
+sent 30 bytes  received 96 bytes  252.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+19.log
+
+sent 30 bytes  received 96 bytes  84.00 bytes/sec
+total size is 0  speedup is 0.00
+receiving incremental file list
+20.log
+
+sent 30 bytes  received 1593 bytes  3246.00 bytes/sec
+total size is 1493  speedup is 0.92
+receiving incremental file list
+21.log
+
+sent 30 bytes  received 355 bytes  770.00 bytes/sec
+total size is 255  speedup is 0.66
+receiving incremental file list
+22.log
+
+sent 30 bytes  received 729 bytes  506.00 bytes/sec
+total size is 629  speedup is 0.83
+receiving incremental file list
+23.log
+
+sent 30 bytes  received 345 bytes  750.00 bytes/sec
+total size is 245  speedup is 0.65
+######   targetdate=20160417   ######
+######   input     =20160417   ######
+######   output    =20160417   ######
+######   starttime = 20160418 11:23:38 
+packageJobJar: [mapper.py, unit.py, reducer.py] [/usr/lib/hadoop-mapreduce/hadoop-streaming-2.6.0-cdh5.4.4.jar] /tmp/streamjob3398525420797412254.jar tmpDir=null
+######   endttime   = 20160418 11:26:14 
+packageJobJar: [mapper_uid.py, reducer_uid.py, unit.py] [/usr/lib/hadoop-mapreduce/hadoop-streaming-2.6.0-cdh5.4.4.jar] /tmp/streamjob8561352849330899305.jar tmpDir=null
